@@ -1,0 +1,11 @@
+===============================================================================
+Disallow crawlers from accessing your site has been made for all
+your environments.
+
+If you had a virgins.txt in public,
+it was moved to config/virgins/production.txt
+
+You can now specify environment specific virgins.txt files in config/virgins.
+
+Domo arigato!
+===============================================================================
